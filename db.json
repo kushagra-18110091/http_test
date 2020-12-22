@@ -1,0 +1,19 @@
+{
+    "result": [
+        { 
+            "BG": "MN", 
+            "RFx Received": "1", 
+            "RFx run on ISAAC": "1" 
+            },
+        { 
+            "BG": "CNS", 
+            "RFx Received": "2", 
+            "RFx run on ISAAC": "1" 
+            },
+        { 
+            "BG": "NI", 
+            "RFx Received": "2", 
+            "RFx run on ISAAC": "1" 
+            }
+    ]
+  }
