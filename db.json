@@ -1,5 +1,5 @@
 {
-    "result": [
+    "BG_Result": [
         { 
             "BG": "MN", 
             "RFx Received": "1", 
@@ -7,12 +7,46 @@
             },
         { 
             "BG": "CNS", 
-            "RFx Received": "2", 
+            "RFx Received": "3", 
             "RFx run on ISAAC": "1" 
             },
         { 
             "BG": "NI", 
+            "RFx Received": "4", 
+            "RFx run on ISAAC": "2" 
+            }
+    ],
+    "BL_Result": [
+        { 
+            "BL": "MNBL", 
+            "RFx Received": "3", 
+            "RFx run on ISAAC": "2" 
+            },
+        { 
+            "BL": "CNSBL", 
             "RFx Received": "2", 
+            "RFx run on ISAAC": "2" 
+            },
+        { 
+            "BL": "NIBL", 
+            "RFx Received": "3", 
+            "RFx run on ISAAC": "1" 
+            }
+    ],
+    "BU_Result": [
+        { 
+            "BU": "MNBU", 
+            "RFx Received": "2", 
+            "RFx run on ISAAC": "1" 
+            },
+        { 
+            "BU": "CNSBU", 
+            "RFx Received": "3", 
+            "RFx run on ISAAC": "3" 
+            },
+        { 
+            "BU": "NIBU", 
+            "RFx Received": "1", 
             "RFx run on ISAAC": "1" 
             }
     ]
